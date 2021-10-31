@@ -11,3 +11,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+nav {
+    background-color: #0082e6;
+    text-align: center;
+    position: fixed;
+    z-index: 999;
+    width: 100%; 
+}
