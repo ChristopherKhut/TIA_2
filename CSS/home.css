@@ -26,6 +26,10 @@ header {
     display: none;
 }
 
+.nav-toggle-label:hover {
+    cursor: pointer;
+}
+
 .nav-toggle-label {
     position: absolute;
     top: 0;
