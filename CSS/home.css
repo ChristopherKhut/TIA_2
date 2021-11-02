@@ -154,6 +154,27 @@ nav a:hover {
     color: var(--primary-color);
 }
 
+i {
+    font-size: 5rem;
+}
+
+.container-card {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+p {
+    display: block;
+}
+
+.card {
+    background: var(--primary-color);
+    width: 50%;
+    text-align: center;
+    color: var(--secondary-color);
+}
+
 /*Tablet*/
 @media screen and (min-width: 540px) and (max-width:640px) {
     .name {
